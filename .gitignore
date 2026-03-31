@@ -1,0 +1,8 @@
+/venv
+venv/
+venv/*
+*.pyc
+*.bin
+*.exe
+__pycache__/
+*.ptx
